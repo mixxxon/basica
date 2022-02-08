@@ -36,7 +36,7 @@
      borderlayer="false"
      inkscape:zoom="0.70710678"
      inkscape:cx="591.14127"
-     inkscape:cy="2317.1889"
+     inkscape:cy="453.25545"
      inkscape:window-width="1920"
      inkscape:window-height="1005"
      inkscape:window-x="-9"
@@ -103,6 +103,18 @@
   </sodipodi:namedview>
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2637">
+      <stop
+         style="stop-color:#3f51b5;stop-opacity:1"
+         offset="0"
+         id="stop2633" />
+      <stop
+         style="stop-color:#2196f3;stop-opacity:1"
+         offset="1"
+         id="stop2635" />
+    </linearGradient>
     <rect
        x="140.00714"
        y="1561.2918"
@@ -154,7 +166,7 @@
     <color-profile
        name="sRGB"
        xlink:href="file:///usr/share/color/icc/colord/sRGB.icc"
-       id="color-profile2140" />
+       id="color-profile40623" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath622">
@@ -856,6 +868,15 @@
        width="243.24473"
        height="93.338095"
        id="rect39493" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2637"
+       id="linearGradient2639"
+       x1="32.179253"
+       y1="38.540264"
+       x2="282.87805"
+       y2="149.29675"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:label="main-design "
@@ -877,7 +898,7 @@
          style="display:inline"
          inkscape:label="hero-image" />
       <rect
-         style="display:inline;opacity:0.35;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.83978;stroke-opacity:1"
+         style="display:inline;opacity:0.35;fill:url(#linearGradient2639);fill-opacity:1;stroke:none;stroke-width:1.83978;stroke-opacity:1"
          id="rect117272"
          width="317.5"
          height="174.62502"
@@ -899,10 +920,10 @@
          y="0"><tspan
            x="527"
            y="414.41051"
-           id="tspan2448">FREE, RESPONSIVE, W3.CSS POWERED HTML </tspan><tspan
+           id="tspan40932">FREE, RESPONSIVE, W3.CSS POWERED HTML </tspan><tspan
            x="527"
            y="441.07714"
-           id="tspan2450">WEB TEMPLATE</tspan></text>
+           id="tspan40934">WEB TEMPLATE</tspan></text>
       <g
          aria-label="BASICA"
          id="g121"
@@ -948,14 +969,14 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.55557px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#9d9d9d;fill-opacity:0.85098;stroke:none;stroke-width:1.07367"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.55557px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#9e9e9e;fill-opacity:1;stroke:none;stroke-width:1.07367"
          x="52.770271"
          y="58.013329"
          id="text143"
          inkscape:label="hero-logo-pretext"><tspan
            sodipodi:role="line"
            id="tspan141"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.55557px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#9d9d9d;fill-opacity:0.85098;stroke-width:1.07367"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.55557px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#9e9e9e;fill-opacity:1;stroke-width:1.07367"
            x="52.770271"
            y="58.013329">THIS IS </tspan></text>
       <path
@@ -979,7 +1000,7 @@
          inkscape:label="hero-button-text"><tspan
            x="527"
            y="416.73186"
-           id="tspan2452">START HERE</tspan></text>
+           id="tspan40936">START HERE</tspan></text>
       <rect
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#2196f3;stroke-width:0.192011;stroke-opacity:1;filter:url(#filter105579)"
          id="rect112699"
@@ -996,7 +1017,7 @@
          inkscape:label="hero-button-text"><tspan
            x="527"
            y="416.73186"
-           id="tspan2454">CONTACT US</tspan></text>
+           id="tspan40938">CONTACT US</tspan></text>
       <path
          d="m 310.05261,94.681799 -0.7553,0.755301 2.45339,2.458745 -2.45339,2.458735 0.7553,0.7553 3.21405,-3.214035 z"
          id="path208202"
@@ -1257,7 +1278,7 @@
          inkscape:label="services-header-text"><tspan
            x="142.60078"
            y="285.3992"
-           id="tspan2456">SERVICES</tspan></text>
+           id="tspan40940">SERVICES</tspan></text>
       <rect
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.174367"
          id="rect20133"
@@ -1301,7 +1322,7 @@
            inkscape:label="services-execution-heading"><tspan
              x="142.60078"
              y="285.3992"
-             id="tspan2458">EXECUTION</tspan></text>
+             id="tspan40942">EXECUTION</tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,89.197192,0)"
@@ -1312,16 +1333,16 @@
            inkscape:label="services-execution-text"><tspan
              x="155.29004"
              y="1575.8489"
-             id="tspan2460">Sale vivendum sadipscing ut </tspan><tspan
+             id="tspan40944">Sale vivendum sadipscing ut </tspan><tspan
              x="170.55176"
              y="1595.8489"
-             id="tspan2462">nam. Sit cu eros doming </tspan><tspan
+             id="tspan40946">nam. Sit cu eros doming </tspan><tspan
              x="159.94238"
              y="1615.8489"
-             id="tspan2464">intellegat, qui solet utamur </tspan><tspan
+             id="tspan40948">intellegat, qui solet utamur </tspan><tspan
              x="207.36816"
              y="1635.8489"
-             id="tspan2466">constituam ut.</tspan></text>
+             id="tspan40950">constituam ut.</tspan></text>
       </g>
       <g
          id="g2322"
@@ -1336,7 +1357,7 @@
            inkscape:label="services-optimisation-heading"><tspan
              x="142.60078"
              y="285.3992"
-             id="tspan2468">OPTIMISATION</tspan></text>
+             id="tspan40952">OPTIMISATION</tspan></text>
         <g
            id="g183737"
            transform="matrix(0.69614827,0,0,0.69614827,290.21946,123.08502)"
@@ -1361,16 +1382,16 @@
            inkscape:label="services-optimisation-text"><tspan
              x="155.29004"
              y="1575.8489"
-             id="tspan2470">Sale vivendum sadipscing ut </tspan><tspan
+             id="tspan40954">Sale vivendum sadipscing ut </tspan><tspan
              x="170.55176"
              y="1595.8489"
-             id="tspan2472">nam. Sit cu eros doming </tspan><tspan
+             id="tspan40956">nam. Sit cu eros doming </tspan><tspan
              x="159.94238"
              y="1615.8489"
-             id="tspan2474">intellegat, qui solet utamur </tspan><tspan
+             id="tspan40958">intellegat, qui solet utamur </tspan><tspan
              x="207.36816"
              y="1635.8489"
-             id="tspan2476">constituam ut.</tspan></text>
+             id="tspan40960">constituam ut.</tspan></text>
       </g>
       <g
          id="g2236"
@@ -1412,7 +1433,7 @@
            inkscape:label="services-security-heading"><tspan
              x="142.60078"
              y="285.3992"
-             id="tspan2478">SECURITY</tspan></text>
+             id="tspan40962">SECURITY</tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,-1.9939294,0)"
@@ -1423,16 +1444,16 @@
            inkscape:label="services-security-text"><tspan
              x="155.29004"
              y="1575.8489"
-             id="tspan2480">Sale vivendum sadipscing ut </tspan><tspan
+             id="tspan40964">Sale vivendum sadipscing ut </tspan><tspan
              x="170.55176"
              y="1595.8489"
-             id="tspan2482">nam. Sit cu eros doming </tspan><tspan
+             id="tspan40966">nam. Sit cu eros doming </tspan><tspan
              x="159.94238"
              y="1615.8489"
-             id="tspan2484">intellegat, qui solet utamur </tspan><tspan
+             id="tspan40968">intellegat, qui solet utamur </tspan><tspan
              x="207.36816"
              y="1635.8489"
-             id="tspan2486">constituam ut.</tspan></text>
+             id="tspan40970">constituam ut.</tspan></text>
       </g>
     </g>
     <g
@@ -1490,7 +1511,7 @@
          inkscape:label="projects-header-text"><tspan
            x="142.60078"
            y="285.3992"
-           id="tspan2488">PROJECTS</tspan></text>
+           id="tspan40972">PROJECTS</tspan></text>
       <rect
          style="fill:#2196f3;fill-opacity:1;stroke-width:0.174367"
          id="rect9328"
@@ -1537,7 +1558,7 @@
            inkscape:label="projects-colaboration-heading"><tspan
              x="142.60078"
              y="285.3992"
-             id="tspan2490">COLABORATION</tspan></text>
+             id="tspan40974">COLABORATION</tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,5.2821064,163.46288)"
@@ -1548,16 +1569,16 @@
            inkscape:label="projects-colaboration-text"><tspan
              x="155.29004"
              y="1575.8489"
-             id="tspan2492">Sale vivendum sadipscing ut </tspan><tspan
+             id="tspan40976">Sale vivendum sadipscing ut </tspan><tspan
              x="170.55176"
              y="1595.8489"
-             id="tspan2494">nam. Sit cu eros doming </tspan><tspan
+             id="tspan40978">nam. Sit cu eros doming </tspan><tspan
              x="159.94238"
              y="1615.8489"
-             id="tspan2496">intellegat, qui solet utamur </tspan><tspan
+             id="tspan40980">intellegat, qui solet utamur </tspan><tspan
              x="207.36816"
              y="1635.8489"
-             id="tspan2498">constituam ut.</tspan></text>
+             id="tspan40982">constituam ut.</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:46.8409;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1568,7 +1589,7 @@
            inkscape:label="projects-colaboration-read-more"><tspan
              x="142.60078"
              y="285.3992"
-             id="tspan2500">READ MORE &gt;</tspan></text>
+             id="tspan40984">READ MORE &gt;</tspan></text>
       </g>
       <g
          id="g45291"
@@ -1591,7 +1612,7 @@
            inkscape:label="projects-business-heading"><tspan
              x="142.60078"
              y="285.3992"
-             id="tspan2502">BUSINESS</tspan></text>
+             id="tspan40986">BUSINESS</tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,173.55711,163.46288)"
@@ -1602,16 +1623,16 @@
            inkscape:label="projects-business-text"><tspan
              x="155.29004"
              y="1575.8489"
-             id="tspan2504">Sale vivendum sadipscing ut </tspan><tspan
+             id="tspan40988">Sale vivendum sadipscing ut </tspan><tspan
              x="170.55176"
              y="1595.8489"
-             id="tspan2506">nam. Sit cu eros doming </tspan><tspan
+             id="tspan40990">nam. Sit cu eros doming </tspan><tspan
              x="159.94238"
              y="1615.8489"
-             id="tspan2508">intellegat, qui solet utamur </tspan><tspan
+             id="tspan40992">intellegat, qui solet utamur </tspan><tspan
              x="207.36816"
              y="1635.8489"
-             id="tspan2510">constituam ut.</tspan></text>
+             id="tspan40994">constituam ut.</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:46.8409;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1622,7 +1643,7 @@
            inkscape:label="projects-business-read-more"><tspan
              x="142.60078"
              y="285.3992"
-             id="tspan2512">READ MORE &gt;</tspan></text>
+             id="tspan40996">READ MORE &gt;</tspan></text>
       </g>
       <g
          id="g45284"
@@ -1645,16 +1666,16 @@
            inkscape:label="projects-management-text"><tspan
              x="143.9082"
              y="1575.8489"
-             id="tspan2514">Cu alii assum dicit cum, qui </tspan><tspan
+             id="tspan40998">Cu alii assum dicit cum, qui </tspan><tspan
              x="143.9043"
              y="1595.8489"
-             id="tspan2516">et viris eruditi principes. Sit </tspan><tspan
+             id="tspan41000">et viris eruditi principes. Sit </tspan><tspan
              x="159.11523"
              y="1615.8489"
-             id="tspan2518">ei adhuc principes, mel </tspan><tspan
+             id="tspan41002">ei adhuc principes, mel </tspan><tspan
              x="176.74023"
              y="1635.8489"
-             id="tspan2520">consul noluisse id. </tspan></text>
+             id="tspan41004">consul noluisse id. </tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:46.8409;fill:#2196f3;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1665,7 +1686,7 @@
            inkscape:label="projects-management-heading"><tspan
              x="142.60078"
              y="285.3992"
-             id="tspan2522">MANAGEMENT</tspan></text>
+             id="tspan41006">MANAGEMENT</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:46.8409;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1676,7 +1697,7 @@
            inkscape:label="projects-management-read-more"><tspan
              x="142.60078"
              y="285.3992"
-             id="tspan2524">READ MORE &gt;</tspan></text>
+             id="tspan41008">READ MORE &gt;</tspan></text>
       </g>
       <g
          id="g1202"
@@ -1699,7 +1720,7 @@
            inkscape:label="projects-development-heading"><tspan
              x="142.60078"
              y="285.3992"
-             id="tspan2526">DEVELOPMENT</tspan></text>
+             id="tspan41010">DEVELOPMENT</tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,5.2821064,232.25459)"
@@ -1710,16 +1731,16 @@
            inkscape:label="projects-development-text"><tspan
              x="155.29004"
              y="1575.8489"
-             id="tspan2528">Sale vivendum sadipscing ut </tspan><tspan
+             id="tspan41012">Sale vivendum sadipscing ut </tspan><tspan
              x="170.55176"
              y="1595.8489"
-             id="tspan2530">nam. Sit cu eros doming </tspan><tspan
+             id="tspan41014">nam. Sit cu eros doming </tspan><tspan
              x="159.94238"
              y="1615.8489"
-             id="tspan2532">intellegat, qui solet utamur </tspan><tspan
+             id="tspan41016">intellegat, qui solet utamur </tspan><tspan
              x="207.36816"
              y="1635.8489"
-             id="tspan2534">constituam ut.</tspan></text>
+             id="tspan41018">constituam ut.</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:46.8409;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1730,7 +1751,7 @@
            inkscape:label="projects-development-read-more"><tspan
              x="142.60078"
              y="285.3992"
-             id="tspan2536">READ MORE &gt;</tspan></text>
+             id="tspan41020">READ MORE &gt;</tspan></text>
       </g>
       <g
          id="g1729"
@@ -1753,7 +1774,7 @@
            inkscape:label="projects-marketing-heading"><tspan
              x="142.60078"
              y="285.3992"
-             id="tspan2538">MARKETING</tspan></text>
+             id="tspan41022">MARKETING</tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,173.55711,232.25459)"
@@ -1764,16 +1785,16 @@
            inkscape:label="projects-marketing-text"><tspan
              x="155.29004"
              y="1575.8489"
-             id="tspan2540">Sale vivendum sadipscing ut </tspan><tspan
+             id="tspan41024">Sale vivendum sadipscing ut </tspan><tspan
              x="170.55176"
              y="1595.8489"
-             id="tspan2542">nam. Sit cu eros doming </tspan><tspan
+             id="tspan41026">nam. Sit cu eros doming </tspan><tspan
              x="159.94238"
              y="1615.8489"
-             id="tspan2544">intellegat, qui solet utamur </tspan><tspan
+             id="tspan41028">intellegat, qui solet utamur </tspan><tspan
              x="207.36816"
              y="1635.8489"
-             id="tspan2546">constituam ut.</tspan></text>
+             id="tspan41030">constituam ut.</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:46.8409;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1784,7 +1805,7 @@
            inkscape:label="projects-marketing-read-more"><tspan
              x="142.60078"
              y="285.3992"
-             id="tspan2549">READ MORE &gt;</tspan></text>
+             id="tspan41032">READ MORE &gt;</tspan></text>
       </g>
       <g
          id="g1214"
@@ -1807,16 +1828,16 @@
            inkscape:label="projects-production-text"><tspan
              x="143.9082"
              y="1575.8489"
-             id="tspan2551">Cu alii assum dicit cum, qui </tspan><tspan
+             id="tspan41034">Cu alii assum dicit cum, qui </tspan><tspan
              x="143.9043"
              y="1595.8489"
-             id="tspan2553">et viris eruditi principes. Sit </tspan><tspan
+             id="tspan41036">et viris eruditi principes. Sit </tspan><tspan
              x="159.11523"
              y="1615.8489"
-             id="tspan2555">ei adhuc principes, mel </tspan><tspan
+             id="tspan41038">ei adhuc principes, mel </tspan><tspan
              x="176.74023"
              y="1635.8489"
-             id="tspan2557">consul noluisse id. </tspan></text>
+             id="tspan41040">consul noluisse id. </tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:46.8409;fill:#2196f3;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1827,7 +1848,7 @@
            inkscape:label="projects-production-heading"><tspan
              x="142.60078"
              y="285.3992"
-             id="tspan2559">PRODUCTION</tspan></text>
+             id="tspan41042">PRODUCTION</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:46.8409;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1838,7 +1859,7 @@
            inkscape:label="projects-production-read-more"><tspan
              x="142.60078"
              y="285.3992"
-             id="tspan2561">READ MORE &gt;</tspan></text>
+             id="tspan41044">READ MORE &gt;</tspan></text>
       </g>
     </g>
   </g>
