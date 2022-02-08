@@ -35,8 +35,8 @@
      inkscape:lockguides="true"
      borderlayer="false"
      inkscape:zoom="0.70710678"
-     inkscape:cx="591.14127"
-     inkscape:cy="508.40978"
+     inkscape:cx="654.78088"
+     inkscape:cy="1293.2983"
      inkscape:window-width="1920"
      inkscape:window-height="1005"
      inkscape:window-x="-9"
@@ -154,7 +154,7 @@
     <color-profile
        name="sRGB"
        xlink:href="file:///usr/share/color/icc/colord/sRGB.icc"
-       id="color-profile8211" />
+       id="color-profile8998" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath622">
@@ -629,10 +629,10 @@
          y="0"><tspan
            x="527"
            y="414.41051"
-           id="tspan8387">FREE, RESPONSIVE, W3.CSS POWERED HTML </tspan><tspan
+           id="tspan9174">FREE, RESPONSIVE, W3.CSS POWERED HTML </tspan><tspan
            x="527"
            y="441.07714"
-           id="tspan8389">WEB TEMPLATE</tspan></text>
+           id="tspan9176">WEB TEMPLATE</tspan></text>
       <g
          aria-label="BASICA"
          id="g121"
@@ -709,7 +709,7 @@
          inkscape:label="hero-button-text"><tspan
            x="527"
            y="416.73186"
-           id="tspan8391">START HERE</tspan></text>
+           id="tspan9178">START HERE</tspan></text>
       <rect
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#2196f3;stroke-width:0.192011;stroke-opacity:1;filter:url(#filter105579)"
          id="rect112699"
@@ -726,7 +726,7 @@
          inkscape:label="hero-button-text"><tspan
            x="527"
            y="416.73186"
-           id="tspan8393">CONTACT US</tspan></text>
+           id="tspan9180">CONTACT US</tspan></text>
       <path
          d="m 310.05261,94.681799 -0.7553,0.755301 2.45339,2.458745 -2.45339,2.458735 0.7553,0.7553 3.21405,-3.214035 z"
          id="path208202"
@@ -905,7 +905,7 @@
        id="g1223"
        inkscape:label="about-us-section">
       <rect
-         style="opacity:0.85;fill:#ffffff;stroke-width:0.257885"
+         style="opacity:1;fill:#ffffff;stroke-width:0.257885"
          id="rect984"
          width="317.5"
          height="100.54167"
@@ -925,7 +925,7 @@
            x="141.04219"
            y="216.80595">ABOUT US</tspan></text>
       <rect
-         style="opacity:0.85;fill:#2196f3;fill-opacity:1;stroke-width:0.174367"
+         style="opacity:1;fill:#2196f3;fill-opacity:1;stroke-width:0.174367"
          id="rect3955"
          width="8.4666662"
          height="2.2982478"
@@ -966,14 +966,17 @@
          id="image105625"
          x="-1.4210855e-14"
          y="269.875"
-         clip-path="url(#clipPath105712)" />
+         clip-path="url(#clipPath105712)"
+         style="display:inline"
+         inkscape:label="services-background-image" />
       <rect
-         style="opacity:0.75;fill:url(#linearGradient134197);fill-opacity:1;stroke-width:0.350012"
+         style="display:inline;opacity:0.75;fill:url(#linearGradient134197);fill-opacity:1;stroke-width:0.350012"
          id="rect15934"
          width="317.5"
          height="185.20833"
          x="0"
-         y="285.75" />
+         y="285.75"
+         inkscape:label="services-image-filter" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:46.8409;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -984,9 +987,9 @@
          inkscape:label="services-header-text"><tspan
            x="142.60078"
            y="285.3992"
-           id="tspan8395">SERVICES</tspan></text>
+           id="tspan9182">SERVICES</tspan></text>
       <rect
-         style="opacity:0.85;fill:#ffffff;fill-opacity:1;stroke-width:0.174367"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.174367"
          id="rect20133"
          width="8.4666662"
          height="2.2982478"
@@ -1028,7 +1031,7 @@
            inkscape:label="services-execution-heading"><tspan
              x="142.60078"
              y="285.3992"
-             id="tspan8397">EXECUTION</tspan></text>
+             id="tspan9184">EXECUTION</tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,89.197192,0)"
@@ -1039,16 +1042,16 @@
            inkscape:label="services-execution-text"><tspan
              x="155.29004"
              y="1575.8489"
-             id="tspan8399">Sale vivendum sadipscing ut </tspan><tspan
+             id="tspan9186">Sale vivendum sadipscing ut </tspan><tspan
              x="170.55176"
              y="1595.8489"
-             id="tspan8401">nam. Sit cu eros doming </tspan><tspan
+             id="tspan9188">nam. Sit cu eros doming </tspan><tspan
              x="159.94238"
              y="1615.8489"
-             id="tspan8403">intellegat, qui solet utamur </tspan><tspan
+             id="tspan9190">intellegat, qui solet utamur </tspan><tspan
              x="207.36816"
              y="1635.8489"
-             id="tspan8405">constituam ut.</tspan></text>
+             id="tspan9192">constituam ut.</tspan></text>
       </g>
       <g
          id="g2322"
@@ -1063,7 +1066,7 @@
            inkscape:label="services-optimisation-heading"><tspan
              x="142.60078"
              y="285.3992"
-             id="tspan8407">OPTIMISATION</tspan></text>
+             id="tspan9194">OPTIMISATION</tspan></text>
         <g
            id="g183737"
            transform="matrix(0.69614827,0,0,0.69614827,290.21946,123.08502)"
@@ -1088,16 +1091,16 @@
            inkscape:label="services-optimisation-text"><tspan
              x="155.29004"
              y="1575.8489"
-             id="tspan8409">Sale vivendum sadipscing ut </tspan><tspan
+             id="tspan9196">Sale vivendum sadipscing ut </tspan><tspan
              x="170.55176"
              y="1595.8489"
-             id="tspan8411">nam. Sit cu eros doming </tspan><tspan
+             id="tspan9198">nam. Sit cu eros doming </tspan><tspan
              x="159.94238"
              y="1615.8489"
-             id="tspan8413">intellegat, qui solet utamur </tspan><tspan
+             id="tspan9200">intellegat, qui solet utamur </tspan><tspan
              x="207.36816"
              y="1635.8489"
-             id="tspan8415">constituam ut.</tspan></text>
+             id="tspan9202">constituam ut.</tspan></text>
       </g>
       <g
          id="g2236"
@@ -1139,7 +1142,7 @@
            inkscape:label="services-security-heading"><tspan
              x="142.60078"
              y="285.3992"
-             id="tspan8417">SECURITY</tspan></text>
+             id="tspan9204">SECURITY</tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,-1.9939294,0)"
@@ -1150,16 +1153,16 @@
            inkscape:label="services-security-text"><tspan
              x="155.29004"
              y="1575.8489"
-             id="tspan8419">Sale vivendum sadipscing ut </tspan><tspan
+             id="tspan9206">Sale vivendum sadipscing ut </tspan><tspan
              x="170.55176"
              y="1595.8489"
-             id="tspan8421">nam. Sit cu eros doming </tspan><tspan
+             id="tspan9208">nam. Sit cu eros doming </tspan><tspan
              x="159.94238"
              y="1615.8489"
-             id="tspan8423">intellegat, qui solet utamur </tspan><tspan
+             id="tspan9210">intellegat, qui solet utamur </tspan><tspan
              x="207.36816"
              y="1635.8489"
-             id="tspan8425">constituam ut.</tspan></text>
+             id="tspan9212">constituam ut.</tspan></text>
       </g>
     </g>
     <g
