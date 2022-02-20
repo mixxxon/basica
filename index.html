@@ -23,27 +23,55 @@
 
             <!-- Header TopBar section START -->
             <div id="header-topbar" class="w3-container w3-card-2">
+
+                <!-- BASICA TopBar logo -->
                 <div id="header-logo" class="w3-left w3-padding-top">
                     <img src="img/basica-header-logo.png" alt="BASICA logo" title="Welcome to BASICA web template" />
                 </div>
 
+                <!-- TopBar MENU -->
                 <div class="w3-right w3-hide-medium w3-hide-small w3-navbar">
                     <li><a href="#" class="w3-hover-white w3-hover-text-blue">HOME</a></li>
                     <li><a href="#" class="w3-hover-white w3-hover-text-blue">ABOUT US</a></li>
-                    <li><a href="#" class="w3-hover-white w3-hover-text-blue has-submenu">SERVICES</a></li>
-                    <li><a href="#" class="w3-hover-white w3-hover-text-blue has-submenu">PAGES</a></li>
+
+                    <li> <!-- Menu item with the submenu -->
+                        <div class="w3-dropdown-hover">
+                            <a href="#" class="has-submenu w3-white w3-hover-text-blue">SERVICES</a> <!-- Link with the submenu -->
+                                <div class="w3-bar-block w3-dropdown-content submenu-content w3-border w3-padding-small"> <!-- Submenu content -->
+                                    <a href="#" class="w3-hover-white w3-hover-text-blue w3-border-bottom">SECURITY</a>
+                                    <a href="#" class="w3-hover-white w3-hover-text-blue w3-border-bottom">EXECUTION</a>
+                                    <a href="#" class="w3-hover-white w3-hover-text-blue">OPTIMISATION</a>
+                                </div>
+                        </div>
+                    </li>
+                    
+                    <li> <!-- Menu item with the submenu -->
+                        <div class="w3-dropdown-hover">
+                            <a href="#" class="has-submenu w3-white w3-hover-text-blue">PAGES</a> <!-- Link with the submenu -->
+                                <div class="w3-bar-block w3-dropdown-content submenu-content w3-border w3-padding-small"> <!-- Submenu content -->
+                                    <a href="#" class="w3-hover-white w3-hover-text-blue w3-border-bottom">OPTION 1</a>
+                                    <a href="#" class="w3-hover-white w3-hover-text-blue w3-border-bottom">OPTION 2</a>
+                                    <a href="#" class="w3-hover-white w3-hover-text-blue w3-border-bottom">OPTION 3</a>
+                                    <a href="#" class="w3-hover-white w3-hover-text-blue w3-border-bottom">OPTION 4</a>
+                                    <a href="#" class="w3-hover-white w3-hover-text-blue w3-border-bottom">OPTION 5</a>
+                                    <a href="#" class="w3-hover-white w3-hover-text-blue">OPTION 6</a>
+                                </div>
+                        </div>
+                    </li>
+
                     <li><a href="#" class="w3-hover-white w3-hover-text-blue">TYPOGRAPHY</a></li>
                     <li><a href="#" class="w3-hover-white w3-hover-text-blue">CONTACT</a></li>
                 </div>
+                <!-- TopBar MENU END -->
                 
             </div>
-            <!-- Header TopBar END-->
+            <!-- Header TopBar END -->
 
             <!-- Header Hero section START -->
             <div id="header-hero">
 
             </div>
-            <!-- Header Hero END-->
+            <!-- Header Hero END -->
             
         </div>
         <!-- Header END -->

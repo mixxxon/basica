@@ -1,27 +1,33 @@
-/*  -= BASICA STYLE =-  */
+/*  -= BASICA TEMPLATE STYLE =-  */
 body {
     font-family: 'Lato', sans-serif;
 }
 
-/*  -= HEADER STYLING =-  */
+
+/*  -= HEADER SECTION STYLING =-  */
+
+/* Height of the top bar */
 #header-topbar {
     height: 40px;
 }
 
+/* Size of the logo located in header top bar */
 #header-logo img {
     width: 95px;
     height: 20px;
 }
 
-/* Submenu down arrow styling */
+/* Submenu and submenu down arrow styling */
 .has-submenu {
-    position:relative;
+    position:relative; /* down arrow on menu element */
 }
 
+/* Make room for down arrow to be added to the menu element */
 a.has-submenu  {
     padding-right: 30px !important;
 }
 
+/* Down arrow on the menu element */
 .has-submenu::after {
     content: "\e5c5";
     font-family: 'Material Icons';
@@ -29,4 +35,9 @@ a.has-submenu  {
     position: absolute;
     bottom: 2px;
     right: 5px;
- }
+}
+
+/* Clear top border on submenu content element */
+.submenu-content {
+    border-top: none !important;
+}
