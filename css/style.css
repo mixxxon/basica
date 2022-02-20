@@ -1,0 +1,32 @@
+/*  -= BASICA STYLE =-  */
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+/*  -= HEADER STYLING =-  */
+#header-topbar {
+    height: 40px;
+}
+
+#header-logo img {
+    width: 95px;
+    height: 20px;
+}
+
+/* Submenu down arrow styling */
+.has-submenu {
+    position:relative;
+}
+
+a.has-submenu  {
+    padding-right: 30px !important;
+}
+
+.has-submenu::after {
+    content: "\e5c5";
+    font-family: 'Material Icons';
+    font-size: 24px;
+    position: absolute;
+    bottom: 2px;
+    right: 5px;
+ }
