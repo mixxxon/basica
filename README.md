@@ -10,7 +10,7 @@ If you like the concept - **PLEASE JOIN** :smile:
 <br />
 
 ## Previews
-As I already mentioned, this is a work in progress, but you can check how far is come (in terms of coding) on [this link](#). *<-- Insert link here*
+As I already mentioned, this is a work in progress, but you can check how far is come (in terms of coding) on [this link](#).
 
 As far as design is concerned you can check the [design folder](https://github.com/mixxxon/basica/tree/main/design) where you can find all design source files.
 If you like to design, redesign or edit something please refer to this [design guide wiki](https://github.com/mixxxon/basica/wiki/basica-Design-Guide#the-design-guide).
