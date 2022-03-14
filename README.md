@@ -19,8 +19,10 @@ If you like to design, redesign or edit something please refer to this [design g
 
 ## Contributing
 
-**Fork it!** <br />
-Create your feature branch: ```git checkout -b my-new-feature``` <br />
-Commit your changes: ```git commit -am 'Add some feature'``` <br />
-Push to the branch: ```git push origin my-new-feature``` <br />
-Submit a pull request :grin: :thumbsup: <br />
+Follow these steps to contribute to the **basica** project:
+
+1.   **Fork it!** <br />
+2.   Create your feature branch: ```git checkout -b my-new-feature``` <br />
+3.   Commit your changes: ```git commit -am 'Add some feature'``` <br />
+4.   Push to the branch: ```git push origin my-new-feature``` <br />
+5.   Submit a pull request :grin: :thumbsup: <br />
