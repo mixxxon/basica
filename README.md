@@ -18,4 +18,9 @@ If you like to design, redesign or edit something please refer to this [design g
 <br />
 
 ## Contributing
-*Here will be info about how you can contribute to the project...*
+
+**Fork it!** <br />
+Create your feature branch: ```git checkout -b my-new-feature``` <br />
+Commit your changes: ```git commit -am 'Add some feature'``` <br />
+Push to the branch: ```git push origin my-new-feature``` <br />
+Submit a pull request :grin: :thumbsup: <br />
