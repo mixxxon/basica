@@ -9,6 +9,10 @@ body {
 /* Height of the top bar */
 #header-topbar {
     height: 40px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
 }
 
 /* Size of the logo located in header top bar */
@@ -54,8 +58,6 @@ a.has-submenu  {
     width: 180px;
     right: 0;
     top:40px;
-    z-index: -1;
-    margin-top: 2px;
 }
 
 .w3-sidenav li {
@@ -71,3 +73,16 @@ a.has-submenu  {
 .w3-sidenav .has-submenu::after {
     bottom: -2px;
 }
+
+/* Hero Slider Section Styling */
+.hero-slide {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+}
+
+#slide-one img {
+    object-position: 20% 60%;
+}
+
